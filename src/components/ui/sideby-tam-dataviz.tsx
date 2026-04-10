@@ -131,7 +131,7 @@ export default function SidebyTamDataviz() {
       { name: "WA principals" },
       { name: "Teachers in WA" },
       { name: "WA TAM" },
-      { name: `${consortiumStates}-state network" },
+      { name: `${consortiumStates}-state network' },
       { name: "National TAM" },
     ],
     links: [
